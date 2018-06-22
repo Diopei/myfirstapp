@@ -1,5 +1,7 @@
 {
   "name": "pg01",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
 }
