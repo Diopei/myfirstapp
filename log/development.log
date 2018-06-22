@@ -553,3 +553,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 18ms (Views: 6.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-06-22 15:07:56 +0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/diopei/.rvm/gems/ruby-2.4.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/diopei/.rvm/gems/ruby-2.4.1/gems/railties-5.2.0/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 20ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
